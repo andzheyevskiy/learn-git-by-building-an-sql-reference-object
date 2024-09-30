@@ -221,3 +221,5 @@ git reset HEAD-1
 git reset HEAD~1
 git log --oneline
 git status
+diff sql_reference.json
+git diff sql_reference.json
