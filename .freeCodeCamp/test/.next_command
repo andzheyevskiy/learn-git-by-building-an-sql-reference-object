@@ -196,3 +196,4 @@ git log --oneline
 git status
 git add .
 git commit -m "feat: add primary key reference"
+git add .
