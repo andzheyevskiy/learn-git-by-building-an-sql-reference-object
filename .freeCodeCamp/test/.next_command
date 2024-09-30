@@ -177,3 +177,5 @@ git checkout -b feat/add-more-row-references
 git statsh lsit
 git statsh list
 git stash list
+git pop
+git stash pop
