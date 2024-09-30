@@ -105,3 +105,6 @@ diff sql_reference.json
 git diff sql_reference.json
 git add .
 git commit -m "feat: add column reference"
+git log
+__vsc_prompt_cmd_original
+git log --oneline
