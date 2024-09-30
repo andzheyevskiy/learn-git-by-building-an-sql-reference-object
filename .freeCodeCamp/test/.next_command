@@ -97,3 +97,4 @@ git commit -m "feat: add drop table reference"
 git branch main
 git checkout main
 git branch
+git merge feat/add-drop-table-reference
