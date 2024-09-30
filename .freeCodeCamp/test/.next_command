@@ -60,3 +60,4 @@ __vsc_prompt_cmd_original
 git status
 git add sql_reference.json
 git status
+git commit -m "feat: add create database reference"
