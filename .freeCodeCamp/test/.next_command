@@ -230,3 +230,4 @@ git log --oneline
 __vsc_prompt_cmd_original
 git show
 __vsc_prompt_cmd_original
+git show HEAD~1
