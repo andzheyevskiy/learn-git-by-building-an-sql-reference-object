@@ -242,3 +242,4 @@ git rebase --interactive HEAD~5
 git log
 __vsc_prompt_cmd_original
 git log --oneline
+git log -1
