@@ -231,3 +231,4 @@ __vsc_prompt_cmd_original
 git show
 __vsc_prompt_cmd_original
 git show HEAD~1
+git rebase --interactive HEAD~2
