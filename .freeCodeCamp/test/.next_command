@@ -208,3 +208,6 @@ git checkout -b fix/add-missiong-rename-references
 git checkout -b fix/add-missing-rename-references
 git add .
 git commit -m "fix: add missing rename database reference"
+git branch
+git branch -d fix/add-missiong-rename-references
+git checkout feat/add-column-references
