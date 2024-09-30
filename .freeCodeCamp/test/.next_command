@@ -302,3 +302,5 @@ git log -1
 git checkout main
 git merge feat/add-gitignore
 git branch -d feat/add-gitignore
+git log --one
+git log --oneline
