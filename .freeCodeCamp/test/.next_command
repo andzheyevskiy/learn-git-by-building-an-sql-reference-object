@@ -266,3 +266,4 @@ git merge feat/add-column-references
 git branch -d feat/add-column-references
 git branch
 git checkout fix/add-missing-rename-references
+git rebase main
