@@ -103,3 +103,4 @@ __vsc_prompt_cmd_original
 git checkout -b feat/add-column-references
 diff sql_reference.json
 git diff sql_reference.json
+git add .
