@@ -92,3 +92,4 @@ git checkout -b feat/add-drop-table-reference
 git status
 diff sql_reference.json
 git diff sql_reference.json
+git add sql_reference.json
