@@ -184,3 +184,4 @@ git diff sql_reference.json
 git add .
 git status
 git commit -m "feat: add update row reference"
+git checkout main
