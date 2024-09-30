@@ -179,3 +179,4 @@ git statsh list
 git stash list
 git pop
 git stash pop
+git stash list
