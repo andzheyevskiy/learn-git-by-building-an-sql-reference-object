@@ -74,3 +74,5 @@ git branch
 git checkout feat/add-create-table-reference
 git branch
 git status
+diff sql_reference.json
+git diff sql_reference.json
