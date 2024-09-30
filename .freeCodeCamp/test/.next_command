@@ -289,3 +289,4 @@ touch .gitignore
 git status
 git status
 git add .
+git commit -m "feat: add .gitignore"
