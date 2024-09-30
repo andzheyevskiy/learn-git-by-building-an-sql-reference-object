@@ -57,3 +57,5 @@ git status
 git status
 git diff
 __vsc_prompt_cmd_original
+git status
+git add sql_reference.json
