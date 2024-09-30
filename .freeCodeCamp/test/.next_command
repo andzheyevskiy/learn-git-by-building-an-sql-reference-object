@@ -174,3 +174,6 @@ git checkout -b feat/add-more-row-refences
 git checkout main
 git branch -d feat/add-more-row-refences
 git checkout -b feat/add-more-row-references
+git statsh lsit
+git statsh list
+git stash list
