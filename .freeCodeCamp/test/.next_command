@@ -226,3 +226,5 @@ git diff sql_reference.json
 git add .
 git commit -m "feat: add unique reference"
 git revert HEAD
+git log --oneline
+__vsc_prompt_cmd_original
