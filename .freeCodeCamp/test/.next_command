@@ -285,3 +285,4 @@ git log --oneline
 git checkout -b feat/add-gitignore
 touch .env
 git status
+touch .gitignore
