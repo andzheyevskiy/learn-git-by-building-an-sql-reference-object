@@ -139,3 +139,4 @@ git merge feat/add-insert-row-reference
 git log --oneline
 git checkout feat/add-
 git checkout feat/add-column-references
+git rebase main
