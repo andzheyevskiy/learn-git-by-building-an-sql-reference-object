@@ -39,3 +39,4 @@ git init -a
 cls
 clear
 ls --color=auto -a
+git status
