@@ -181,3 +181,4 @@ git pop
 git stash pop
 git stash list
 git diff sql_reference.json
+git add .
