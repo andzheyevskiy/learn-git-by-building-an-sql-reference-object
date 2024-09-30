@@ -243,3 +243,22 @@ git log
 __vsc_prompt_cmd_original
 git log --oneline
 git log -1
+git checkout main
+git checkout main
+git log
+__vsc_prompt_cmd_original
+git log --oneline
+git checkout main
+git branch
+git checkout feat/add-column-references
+git checkout main
+git log
+git log --oneline
+git checkout feat/add-column-references
+git log --oneline
+git checkout main
+git log
+git log --oneline
+__vsc_prompt_cmd_original
+git branch main
+git checkout main
