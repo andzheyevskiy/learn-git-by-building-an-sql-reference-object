@@ -69,3 +69,4 @@ git commit -m "feat: add drop database reference"
 git log
 __vsc_prompt_cmd_original
 git branch
+git branch feat/add-create-table-reference
