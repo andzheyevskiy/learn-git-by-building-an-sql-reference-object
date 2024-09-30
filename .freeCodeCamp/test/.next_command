@@ -217,3 +217,5 @@ git status
 git rebase --continue
 git add .
 git commit -m "feat: add unique reference"
+git reset HEAD-1
+git reset HEAD~1
