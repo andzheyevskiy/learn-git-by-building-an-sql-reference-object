@@ -64,3 +64,4 @@ git commit -m "feat: add create database reference"
 git log
 git status
 git diff sql_reference.json
+git add sql_reference.json
