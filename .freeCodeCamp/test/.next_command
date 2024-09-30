@@ -77,3 +77,4 @@ git status
 diff sql_reference.json
 git diff sql_reference.json
 git add sql_reference.json
+git commit -m "feat: add create table reference"
