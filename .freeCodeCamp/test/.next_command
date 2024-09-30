@@ -34,3 +34,8 @@ echo hello git
 mkdir sql_reference
 cd sql_reference/
 git init
+-a
+git init -a
+cls
+clear
+ls --color=auto -a
