@@ -145,3 +145,4 @@ git add .
 git status
 git rebase --continue
 git log --oneline
+__vsc_prompt_cmd_original
