@@ -206,3 +206,4 @@ git merge feat/add-more-row-references
 git branch -d feat/add-more-row-references
 git checkout -b fix/add-missiong-rename-references
 git checkout -b fix/add-missing-rename-references
+git add .
