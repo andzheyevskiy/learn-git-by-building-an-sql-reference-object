@@ -123,3 +123,5 @@ git rebase main
 git log
 __vsc_prompt_cmd_original
 git log --oneline
+git status
+git add .
