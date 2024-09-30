@@ -262,3 +262,4 @@ git log --oneline
 __vsc_prompt_cmd_original
 git branch main
 git checkout main
+git merge feat/add-column-references
