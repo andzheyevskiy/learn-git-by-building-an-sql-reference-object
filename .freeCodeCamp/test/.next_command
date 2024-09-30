@@ -54,3 +54,6 @@ git commit -m "Initial commit"
 git status
 git log
 git status
+git status
+git diff
+__vsc_prompt_cmd_original
