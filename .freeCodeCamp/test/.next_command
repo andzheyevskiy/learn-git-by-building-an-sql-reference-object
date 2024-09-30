@@ -149,3 +149,4 @@ __vsc_prompt_cmd_original
 git add .
 git commit -m "feat: add rename column reference"
 git checkout feat/add-insert-row-reference
+git status
