@@ -110,3 +110,4 @@ __vsc_prompt_cmd_original
 git log --oneline
 git checkout main
 git checkout -b fix/create-table-syntax
+git add .
