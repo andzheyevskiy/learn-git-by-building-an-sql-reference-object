@@ -271,3 +271,4 @@ git log 5
 git log -5
 __vsc_prompt_cmd_original
 git log -5 --oneline
+git add .
